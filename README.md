@@ -41,8 +41,4 @@ The following screenshots demonstrate the execution and results of the project.
 
 <img width="411" height="802" alt="WhatsApp Image 2026-07-09 at 5 23 55 PM" src="https://github.com/user-attachments/assets/85535252-1afe-4df7-9ecf-5c0c92b7bd0c" />
 
-### Attention Visualization
-![Attention Heatmap](images/attention_heatmap.png)
 
-### Performance Graph
-![Performance](images/performance.png)
